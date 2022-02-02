@@ -1,13 +1,15 @@
+// Node Dependencies
 const cheerio = require("cheerio");
 const axios = require("axios");
 const fs = require("fs");
-const baseUrl = "https://stackoverflow.com";
-const trmUrl = baseUrl + "/questions";
 const MongoClient = require('mongodb').MongoClient;
 const csvwriter = require('csv-writer');
 var createCsvWriter = csvwriter.createObjectCsvWriter
 
+// URL
+const trmUrl = "https://stackoverflow.com/questions";
 
+// Uses Axios to make http requests to get html code from the page
 const fetchPage = async(url, n) => {
     try {
         const result = await axios.get(url);
@@ -21,59 +23,60 @@ const fetchPage = async(url, n) => {
     }
 };
 
+// Used to get particular values needed from DOM Structure of the html
 const questions = async() => {
-    try {
-        const html = await fetchPage(trmUrl, 5);
-        const $ = cheerio.load(html);
-        const questionBank = $('#questions > .question-summary ').map(async(index, element) => {
+        try {
+            const html = await fetchPage(trmUrl, 5);
+            const $ = cheerio.load(html);
+            const questionBank = $('#questions > .question-summary ').map(async(index, element) => {
 
-            // 1) EVERY UNIQUE URL (STACK OVERFLOW QUESTION).
-            let link = $(element).find('.summary > h3 > a').attr('href');
+                // 1) EVERY UNIQUE URL (STACK OVERFLOW QUESTION).
+                let link = $(element).find('.summary > h3 > a').attr('href');
 
-            // 2) THE TOTAL REFERENCE COUNT FOR EVERY URL (HOW MANY TIMES THIS URL WAS ENCOUNTERED).
+                // 2) THE TOTAL REFERENCE COUNT FOR EVERY URL (HOW MANY TIMES THIS URL WAS ENCOUNTERED).
 
-            let views = $(element).find('.statscontainer > .views').text();
+                let views = $(element).find('.statscontainer > .views').text();
 
-            // 3) TOTAL # OF UPVOTES AND TOTAL # OF ANSWERS FOR EVERY QUESTION.
+                // 3) TOTAL # OF UPVOTES AND TOTAL # OF ANSWERS FOR EVERY QUESTION.
 
-            // COUNT OF VOTES
-            let votes = $(element).find('.statscontainer > .stats > .vote > .votes > .vote-count-post').text();
+                // COUNT OF VOTES
+                let votes = $(element).find('.statscontainer > .stats > .vote > .votes > .vote-count-post').text();
 
-            // NUMBER OF ANSWERS
-            let answers = $(element).find('.statscontainer > .stats > .answered > *').text();
-            if (answers == '') {
-                let num = 0;
-                answers = num.toString();
-            }
-
-            // 4)ADITIONAL FEATURE - NUMBER OF TIMES OUR CRAWLER HAS ENCOUNTERED A PARTICULAR QUESTION (COUNT INCREASES BY 1 IF THE QUESTION LINK ALREADY IN JSON FILE) 
-            var json = require('./questionBankList.json');
-            let count = 1;
-            let unique = link;
-            for (var index = 0; index < json.length; ++index) {
-                var a = json[index];
-                if (a.link == unique) {
-                    count = a.count
-                    count++;
-                    break;
+                // NUMBER OF ANSWERS
+                let answers = $(element).find('.statscontainer > .stats > .answered > *').text();
+                if (answers == '') {
+                    let num = 0;
+                    answers = num.toString();
                 }
-            }
-            return {
-                link,
-                views,
-                votes,
-                answers,
-                count
-            }
-        }).get();
 
-        return Promise.all(questionBank);
+                // 4)ADITIONAL FEATURE - NUMBER OF TIMES OUR CRAWLER HAS ENCOUNTERED A PARTICULAR QUESTION (COUNT INCREASES BY 1 IF THE QUESTION LINK ALREADY IN JSON FILE) 
+                var json = require('./questionBankList.json');
+                let count = 1;
+                let unique = link;
+                for (var index = 0; index < json.length; ++index) {
+                    var a = json[index];
+                    if (a.link == unique) {
+                        count = a.count
+                        count++;
+                        break;
+                    }
+                }
+                return {
+                    link,
+                    views,
+                    votes,
+                    answers,
+                    count
+                }
+            }).get();
 
-    } catch (error) {
-        throw error;
+            return Promise.all(questionBank);
+
+        } catch (error) {
+            throw error;
+        }
     }
-}
-
+    // Gets the result values (link,views,votes,answers) and calls 2 more functions. One to store data in JSON file, other to store data in Mongo DB 
 questions().then(results => {
     console.log("number of results: " + results.length);
     exportResults(results, "./questionBankList.json");
@@ -84,22 +87,22 @@ questions().then(results => {
     console.log("Error while fetching questions :::: " + err);
 })
 
-
+//Exports results data to JSON file and keeps on appending new values
 const exportResults = (results, outputFile) => {
-    try {
-        fs.writeFile(outputFile, JSON.stringify(results, null, 4), (err) => {
-            if (err) {
-                console.log(err);
-            }
-            console.log('\n' + results.length + ' Results exported successfully to ' + outputFile);
-        })
-    } catch (error) {
-        throw error;
+        try {
+            fs.writeFile(outputFile, JSON.stringify(results, null, 4), (err) => {
+                if (err) {
+                    console.log(err);
+                }
+                console.log('\n' + results.length + ' Results exported successfully to ' + outputFile);
+            })
+        } catch (error) {
+            throw error;
+        }
+
+
     }
-
-
-}
-
+    // Stores data locally in MongoDB server
 const exportToMongoDB = (results, outputFile) => {
     var url = "mongodb://localhost:27017/";
     MongoClient.connect(url, function(err, db) {
@@ -114,6 +117,7 @@ const exportToMongoDB = (results, outputFile) => {
     });
 }
 
+//Function call to convert JSON file to CSV
 const jsonToCSV = (results) => {
     const csvWriter = createCsvWriter({
         // OUTPUT CSV
