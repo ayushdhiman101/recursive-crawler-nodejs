@@ -1,0 +1,2418 @@
+[
+  [
+    {
+      "link": "/questions/57546731/laravel-mix-browsersync-not-loading-at-localhost3000",
+      "views": "13k views",
+      "votes": "3",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951887/how-to-use-getclosest-in-a-list-in-python",
+      "views": "17 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70921393/error-restarting-service-failed-to-try-restart-nscd-service-unit-nscd-service",
+      "views": "57 views",
+      "votes": "-1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70588870/is-there-an-equivalent-to-quokkajs-for-emacs",
+      "views": "19 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/15306916/dynamically-create-collection-with-mongoose",
+      "views": "27k views",
+      "votes": "26",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950558/what-is-wrong-with-this-function-that-is-supposed-to-find-the-multiplicative-per",
+      "views": "39 views",
+      "votes": "-2",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/66599378/chart-js-click-event-on-x-axis-labels",
+      "views": "40 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951720/robocopy-use-the-monitor-function-for-extra-actions",
+      "views": "13 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70951185/image-doesnt-display-in-page-while-uploading-to-mongodb",
+      "views": "19 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70952080/rabbitmq-client-update-caused-too-many-channels",
+      "views": "4 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951440/report-portal-io-container-reportportal-db-script-1-image-migrations5-6-0-exi",
+      "views": "6 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952015/react-router-dom-go-back-and-keep-state",
+      "views": "15 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70941581/repeated-error-while-running-face-recognition-vs-code",
+      "views": "18 views",
+      "votes": "-1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/68782781/react-router-v6-history-listen",
+      "views": "2k views",
+      "votes": "4",
+      "answers": "3"
+    },
+    {
+      "link": "/questions/70952076/how-to-route-from-one-api-to-other-fastapi",
+      "views": "10 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/35052792/react-native-socket-io-how-to-connect-to-local-node-server-from-device",
+      "views": "1k views",
+      "votes": "8",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70937877/signal-for-custom-user-registration-in-django",
+      "views": "29 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/4905393/scala-inputstream-to-arraybyte",
+      "views": "37k views",
+      "votes": "44",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952073/how-to-transfer-pandas-dataframe-from-djangobackend-to-tkinterfrontend",
+      "views": "10 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952072/how-to-disable-remote-ssh-and-local-download-in-vsc",
+      "views": "7 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/64809716/could-not-load-file-or-assembly-microsoft-extensions-configuration-abstractions",
+      "views": "21k views",
+      "votes": "27",
+      "answers": "8"
+    },
+    {
+      "link": "/questions/70951954/how-to-change-the-color-of-an-input-made-by-a-user-in-python",
+      "views": "21 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70952070/get-weight-from-gatt-characteristics-value-in-react-native-ble-plx",
+      "views": "8 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951958/how-to-send-push-notifications-in-both-android-and-iphone-flutter",
+      "views": "15 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/48341235/force-number-input-to-have-two-decimal-places-and-always-show-two-decimals-in-re",
+      "views": "8k views",
+      "votes": "1",
+      "answers": "3"
+    },
+    {
+      "link": "/questions/70949148/display-gameobject-added-to-a-script-in-unity3d",
+      "views": "16 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70925787/reactive-messaging-classcastexception-cannot-be-cast-to-class-io-smallrye-muti",
+      "views": "15 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/67570614/using-g-google-drive-for-desktop-for-node-js-projects-npm-install-errors",
+      "views": "356 views",
+      "votes": "2",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70951690/temporary-variable-changing-main-variable",
+      "views": "27 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/33301880/how-to-obtain-current-instance-id-from-boto3",
+      "views": "17k views",
+      "votes": "19",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952061/why-this-is-show-i-define-the-function-but-it-always-show-this-error",
+      "views": "20 views",
+      "votes": "-5",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/28509398/handle-exception-in-pyserial-during-disconnection",
+      "views": "19k views",
+      "votes": "9",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952059/asp-net-core-mvc-identity-custom-policy-problem-with-custom-authorization-p",
+      "views": "16 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/56413290/getting-curl-92-http-2-stream-1-was-not-closed-cleanly-internal-error-err",
+      "views": "29k views",
+      "votes": "10",
+      "answers": "4"
+    },
+    {
+      "link": "/questions/70944044/check-existence-of-multiple-ids-with-spring-data-jpa",
+      "views": "29 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949180/best-way-to-convert-a-observablemaybet-to-observablet",
+      "views": "22 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/63348547/setstate-or-markneedsbuild-called-during-build-with-navigation-in-inkwell",
+      "views": "71 views",
+      "votes": "0",
+      "answers": "3"
+    },
+    {
+      "link": "/questions/70952054/how-can-i-reduce-recomposition-in-android-studio",
+      "views": "11 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/36297815/how-to-setup-workers-for-parallel-processing-in-r-using-snowfall-and-multiple-wi",
+      "views": "2k views",
+      "votes": "100",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/18137682/using-nsis-to-package-application-installer-and-wav-file-does-not-play-because",
+      "views": "144 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951809/pyagrum-printing-and-plotting",
+      "views": "11 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70928420/how-to-validate-version-to-accept-4-4-but-not-4-4-0",
+      "views": "22 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70938683/caret-cross-validation-following-stepwise-selection-question-on-mechanism",
+      "views": "14 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70947132/php-form-insertcell-add-mysql-column",
+      "views": "18 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/58891872/how-to-get-a-username-to-show-on-serializer-django-rest-framework",
+      "views": "2k views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/68347350/angular-bootstrap-navbar-with-dropdowns-routing",
+      "views": "77 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/61481079/how-can-i-join-all-the-futures-in-a-vector-without-cancelling-on-failure-like-jo",
+      "views": "3k views",
+      "votes": "6",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951601/android-using-colors-from-colors-xmlcolor-black-vs-inline-colors000000-in",
+      "views": "15 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70952046/can-someone-take-a-look-at-my-code-im-getting-an-error",
+      "views": "26 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952045/react-native-unable-to-find-valid-certification-path-to-requested-target",
+      "views": "10 views",
+      "votes": "0",
+      "answers": "0"
+    }
+  ],
+  [
+    {
+      "link": "/questions/63076971/pyinstaller-auto-py-to-exe-error-project-output-will-not-be-moved-to-output-f",
+      "views": "2k views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949254/get-driveid-of-my-personal-google-drive-my-drive",
+      "views": "24 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70947253/grpc-protofile-service-contract",
+      "views": "8 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949201/how-to-mouseover-multiple-elements-in-one-function",
+      "views": "25 views",
+      "votes": "-3",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70949438/r-sum-a-set-number-of-rows-from-same-column-in-a-different-data-frame",
+      "views": "15 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/67930573/after-making-a-exe-file-using-auto-py-to-exe-it-didnt-run",
+      "views": "44 views",
+      "votes": "-2",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/32903696/issue-with-executing-procedure-in-spring-boot-schema-sql-file",
+      "views": "5k views",
+      "votes": "8",
+      "answers": "4"
+    },
+    {
+      "link": "/questions/33451935/cannot-reliably-process-persist-call-why-does-this-happen",
+      "views": "1k views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949511/python-netmiko-multithreading",
+      "views": "24 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949510/snakemake-and-conda-environments",
+      "views": "7 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/68549641/module-django-core-mail-backends-console-does-not-define-a-emailbacked-attri",
+      "views": "26 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70944962/font-awesome-showing-random-symbols-locally",
+      "views": "32 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/49623774/how-to-set-default-value-for-primeng-p-dropdown",
+      "views": "84k views",
+      "votes": "20",
+      "answers": "13"
+    },
+    {
+      "link": "/questions/12888674/how-does-php-compare-strings-with-comparison-operators",
+      "views": "11k views",
+      "votes": "15",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70936003/how-do-you-display-a-character-with-ncurses-in-rust",
+      "views": "53 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70857331/having-problems-calling-an-api-id",
+      "views": "46 views",
+      "votes": "1",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70949503/communicating-with-google-home-and-google-assistant-with-the-application-we-deve",
+      "views": "13 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949501/how-can-i-find-the-list-of-all-available-nearby-devices-even-if-they-dont-have",
+      "views": "16 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70933293/how-to-test-link-using-react-testing-library-and-jest",
+      "views": "30 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949385/usestate-variable-not-holding-its-state-during-onchange-event",
+      "views": "34 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949498/intellij-idea-breakpoints-do-not-hit-in-anonymous-inner-class",
+      "views": "20 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70948411/string-encode-memory-utilisation",
+      "views": "31 views",
+      "votes": "-2",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/63429948/how-to-improve-code-for-scraping-reddit-using-python",
+      "views": "90 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949277/watch-for-file-creation-pick-the-file-name-add-it-after-script-and-run",
+      "views": "13 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949486/why-does-this-give-me-a-str-is-not-callable-error-when-im-trying-to-print-somet",
+      "views": "28 views",
+      "votes": "-3",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949197/production-not-the-same-as-local",
+      "views": "38 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/26591075/woocommerce-shipping-methods-not-working-for-logged-in-users",
+      "views": "13k views",
+      "votes": "2",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/12281413/lock-folder-using-command-prompt",
+      "views": "7k views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/5517176/jquery-ajax-call-returning-with-a-301-moved-permanently-error-in-wordpress",
+      "views": "7k views",
+      "votes": "2",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/797311/getting-visual-studio-to-ignore-source-control-bindings-in-a-solution",
+      "views": "7k views",
+      "votes": "5",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70949490/undefined-symbol-objc-class-in-flutter",
+      "views": "18 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70910889/poor-selfie-segmentation-with-google-ml-kit",
+      "views": "34 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949488/mongodb-empty-collections-after-ec2-crash",
+      "views": "10 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949487/leverage-sql-server-2016-row-level-security-for-power-bi-desktop-published-repor",
+      "views": "16 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949485/react-improve-performance-of-transfer-list-for-many-items",
+      "views": "12 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949483/plpgsql-trigger-shows-value-as-exists-when-is-not",
+      "views": "6 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/60101168/pytorch-runtimeerror-dataloader-worker-pids-15332-exited-unexpectedly",
+      "views": "23k views",
+      "votes": "9",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949481/how-can-i-determine-the-optimal-number-of-worker-and-executor-cores-on-a-node-56",
+      "views": "5 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70947701/open-another-process-in-another-window",
+      "views": "25 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949338/pandas-work-with-multiple-excel-files-and-create-enter-in-one-sheet",
+      "views": "17 views",
+      "votes": "-3",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949478/interview-problem-move-array-element-from-one-component-to-another",
+      "views": "18 views",
+      "votes": "-3",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/51930339/how-do-i-correctly-add-type-hints-to-mixin-classes",
+      "views": "7k views",
+      "votes": "27",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70947432/cuda-version-error-on-deepstream-container-cuda-driver-version-is-insufficient",
+      "views": "21 views",
+      "votes": "-1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949474/descargar-archivo-que-tiene-key-en-los-headers-con-node-js",
+      "views": "9 views",
+      "votes": "-1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/35911065/spring-and-mysql-stored-procedure",
+      "views": "1k views",
+      "votes": "2",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70948035/trying-to-connect-to-azure-cosmos-db-from-golang-application",
+      "views": "18 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949469/how-can-you-delete-a-response-using-survey-monkey-api",
+      "views": "4 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70947424/mongodb-run-in-on-an-array",
+      "views": "21 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/48004063/shoulda-matchers-delegate-method-not-working",
+      "views": "605 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949169/near-protocol-how-can-i-transfer-a-nfts-copy",
+      "views": "37 views",
+      "votes": "-1",
+      "answers": "1"
+    }
+  ],
+  [
+    {
+      "link": "/questions/70840521/azure-blob-storage-sas-token-dose-not-expire-as-expected",
+      "views": "69 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70936322/trying-to-move-the-data-from-from-kafka-topic-to-mysql-db-using-jdbc-connector",
+      "views": "20 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950852/delete-certificated-for-all-users",
+      "views": "18 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70941136/need-to-embed-vue-component-tags-inside-html-file",
+      "views": "48 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70950850/call-a-function-when-selecting-cancel-button-in-prompt-of-react-router",
+      "views": "9 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70947400/no-much-improvement-on-max-transaction-id-after-vacuum-full",
+      "views": "14 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/55022511/updating-a-website-served-with-a-large-max-age",
+      "views": "150 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70950740/sorting-day-week-month-and-year",
+      "views": "35 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/43963729/adding-default-widget-in-android-launcher",
+      "views": "491 views",
+      "votes": "2",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/50053880/match-vue-js-routes-with-query-string-in-them",
+      "views": "8k views",
+      "votes": "5",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950693/how-to-make-string-format-exception-in-py",
+      "views": "25 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/68118022/spark-scala-convert-string-to-bigdecimal-11-2",
+      "views": "79 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/15757263/find-a-string-by-searching-all-tables-in-sql-server",
+      "views": "464k views",
+      "votes": "248",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950776/c-c-and-inline-assembly",
+      "views": "43 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950566/issue-synchronizing-multiple-countdown-timers-with-python-tkinter",
+      "views": "14 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949173/how-to-add-a-background-image-to-an-img-tag-and-switch-display-on-mouseover",
+      "views": "28 views",
+      "votes": "1",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70950836/what-is-wrong-with-my-mariadb-sql-syntax",
+      "views": "9 views",
+      "votes": "-2",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70921177/using-find-element-by-xpath-to-extract-img-alt-value-coming-up-empty",
+      "views": "41 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70950834/emotion-js-not-accessing-nth-child",
+      "views": "9 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950833/how-can-i-create-a-swagger-yaml-contract-to-specify-an-end-going-that-always-ret",
+      "views": "7 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70933217/yocto-space-profiling-using-ksize",
+      "views": "9 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70941311/pytest-xdist-crashes-with-pytest-cov-error",
+      "views": "12 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/58055761/spring-difference-between-method-with-transactionalpropagation-propagation-s",
+      "views": "677 views",
+      "votes": "6",
+      "answers": "3"
+    },
+    {
+      "link": "/questions/70919278/how-to-keep-the-reached-state-of-an-animate-css-animation",
+      "views": "62 views",
+      "votes": "1",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70866288/ajax-sending-data-to-backend-c-sharp-issue",
+      "views": "35 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/41813108/warning-call-user-func-array-expects-parameter-1-to-be-a-valid-callback-no-a",
+      "views": "9k views",
+      "votes": "1",
+      "answers": "5"
+    },
+    {
+      "link": "/questions/70950564/data-retention-for-external-table-in-snowflake-using-s3-staging",
+      "views": "10 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949886/observer-and-observable-got-deprecated-and-the-reason-stated-is-they-convey-som",
+      "views": "46 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950475/how-to-extract-conent-between-html-tag-using-php",
+      "views": "9 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70669897/autolisp-routine-to-move-all-revclouds-to-a-specified-layer",
+      "views": "33 views",
+      "votes": "-1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/65680842/error-mongooseerror-operation-users-insertone-buffering-timed-out-after-1",
+      "views": "20k views",
+      "votes": "13",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950819/easy-localization-in-dropdown-list-change-the-data",
+      "views": "8 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70873943/mtls-certificate-is-rejected-with-403-16",
+      "views": "40 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950814/refreshing-page-data-due-to-server-side-changes-on-next-js",
+      "views": "5 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950599/add-additional-script-into-my-existing-apps-script-function",
+      "views": "17 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/67576959/enable-x509-certificate-user-authentication-in-keycloak-with-kubernetes",
+      "views": "184 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/59386698/flutter-application-not-running",
+      "views": "451 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70950061/how-would-i-make-linear-gradient-colors-as-a-prop-in-a-flatlist",
+      "views": "20 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949252/fyne-testing-how-do-i-test-dialogs",
+      "views": "15 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70950807/forwarding-error-logs-from-elasticsearch-to-slack",
+      "views": "8 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950806/what-would-be-the-correct-method-to-obtain-the-link-that-i-cannot-find-on-this-p",
+      "views": "7 views",
+      "votes": "-3",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70939106/why-css-files-working-in-local-laravel-but-not-in-heroku",
+      "views": "44 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70950449/attributeerror-numpy-float64-object-has-no-attribute-split",
+      "views": "26 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/68234210/validate-a-field-only-if-another-one-passes-validation-in-laravel-8",
+      "views": "443 views",
+      "votes": "2",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70942753/set-up-authentication-in-net-core-using-ws-federation",
+      "views": "21 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70950804/c-nana-createcompatibledc-failed-what-is-reason",
+      "views": "10 views",
+      "votes": "-1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70935412/how-to-pass-additional-parameter-in-kendo-multi-select",
+      "views": "17 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/55620649/kdb-equivalent-of-sqls-rank-and-dense-rank",
+      "views": "358 views",
+      "votes": "1",
+      "answers": "3"
+    },
+    {
+      "link": "/questions/70942476/how-to-send-mails-to-a-segment-of-a-list-using-new-campaign-api-sendgrid-c",
+      "views": "24 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950741/i-have-cuda-get-device-failed-when-loading-model-to-streamlit",
+      "views": "9 views",
+      "votes": "0",
+      "answers": "0"
+    }
+  ],
+  [
+    {
+      "link": "/questions/70953502/scale-angular-material-website-on-android",
+      "views": "4 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70201220/python-recursionerror-raised-requests-2-26-and-firebase-5-1",
+      "views": "18 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953500/github-actions-branch-filter-could-not-use-release-preffix-on-push-workflow",
+      "views": "3 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953497/how-to-decode-a-transaction-find-all-transaction-details-of-a-token-swap-on-et",
+      "views": "8 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70944429/why-is-my-program-panicking-although-the-datatype-is-same",
+      "views": "66 views",
+      "votes": "-1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953495/switch-endpoint-responses-based-on-condition",
+      "views": "8 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70875827/asp-net-core-return-values-from-the-controller-and-put-the-values-into-the-in",
+      "views": "29 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70951184/how-to-merge-a-specific-file-from-one-branch-to-master",
+      "views": "23 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/44742681/how-to-execute-cucumber-hooks-in-java-placed-in-different-class-other-than-step",
+      "views": "2k views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949840/im-trying-to-build-an-ios-app-that-pulls-certain-notes-from-the-notes-app-based",
+      "views": "18 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953491/in-ef-core-connection-string-to-one-of-several-local-databases-on-sql-server-de",
+      "views": "5 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70930453/put-legend-outside-the-figure-so-it-will-not-affect-the-basic-figure-size",
+      "views": "30 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70943315/selenium-webdriver-chrome-hangs-in-python-works-via-command-line",
+      "views": "14 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953489/error-in-forecast-and-accuracy-function-in-r",
+      "views": "12 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950370/facial-recognition-project-exit-code-132-error-does-anybody-know-what-might-be",
+      "views": "25 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953215/show-snackbar-reactively-using-getx-in-flutter",
+      "views": "9 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953487/connection-refused-error-when-trying-to-communicate-between-two-virtualbox-machi",
+      "views": "6 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953458/nptdms-tdmsfile-object-not-subscriptable",
+      "views": "11 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/67766247/null-propagating-function-type-annotation",
+      "views": "58 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953483/how-do-i-copy-my-transpose-data-with-the-cells-fill-color-together",
+      "views": "8 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952238/how-to-detect-if-there-is-little-to-no-change-in-time-series-data",
+      "views": "24 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953480/facing-deadlinetimeoutexception-while-using-apache-httpclient-with-spring-webcli",
+      "views": "6 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952751/can-i-add-custom-attributes-to-components-in-preferences-xml-without-making-cust",
+      "views": "13 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70947821/publish-final-jar-file-in-artifactory-using-gradle",
+      "views": "16 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953261/twilio-live-streams-only-one-members-video-stream",
+      "views": "13 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70494957/converting-private-route-with-props-from-react-router-v5-to-react-router-v6",
+      "views": "73 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952952/loosing-connection-to-sql-server-from-express-js-api",
+      "views": "14 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953462/date-field-is-not-getting-saved-in-the-admin-database",
+      "views": "6 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/37813568/git-remote-repository-not-found",
+      "views": "502k views",
+      "votes": "241",
+      "answers": "49"
+    },
+    {
+      "link": "/questions/70952758/git-merge-feature-branch-to-master-branch-after-squashing-commits",
+      "views": "17 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953474/how-to-create-toggle-react-native-camera-torch-on-off",
+      "views": "6 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952895/timestamp-of-yesterday-at-specific-hour-bigquery",
+      "views": "8 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70946235/r-shiny-encrypting-dataframe-on-server",
+      "views": "15 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951075/postgres-cannot-create-database-but-can-create-a-user",
+      "views": "26 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953160/insert-into-dependent-on-if-statment",
+      "views": "19 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70095682/showing-push-notifications-while-using-airplay-on-ios",
+      "views": "58 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/47204267/select-dropdown-in-react-with-html-in-dropdowns",
+      "views": "302 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70940656/how-to-get-string-from-array-while-using-axios",
+      "views": "23 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953467/how-to-display-different-font-family-to-the-same-font-in-output-of-tinymce",
+      "views": "6 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70797995/python-how-to-use-user-input-for-login-information-prompt",
+      "views": "48 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70721080/selenium-python-how-to-wait-for-div-to-appear-do-stuff-then-wait-again-and-so",
+      "views": "26 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953466/unique-url-i-came-across-and-cant-understand-how-it-works",
+      "views": "5 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952877/one-to-many-relationship-foreign-key-count",
+      "views": "15 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/4910077/select-all-child-elements-recursively-in-css",
+      "views": "640k views",
+      "votes": "470",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952203/angular-ngfor-display-only-unique-property-category-value-and-lowest-price-i",
+      "views": "27 views",
+      "votes": "-1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950989/why-does-callback-to-the-event-listener-work-as-intended-while-using-the-useeffe",
+      "views": "22 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70732831/creating-a-box-that-moves-accross-the-screen-in-phaser-3",
+      "views": "27 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953461/issues-in-accessing-onedrive-business-using-microsoft-graph-api",
+      "views": "5 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953460/sso-for-cross-domain-authentication",
+      "views": "12 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953049/question-about-an-existing-code-on-certain-problem",
+      "views": "25 views",
+      "votes": "0",
+      "answers": "0"
+    }
+  ],
+  [
+    {
+      "link": "/questions/70953502/scale-angular-material-website-on-android",
+      "views": "4 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70201220/python-recursionerror-raised-requests-2-26-and-firebase-5-1",
+      "views": "18 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953500/github-actions-branch-filter-could-not-use-release-preffix-on-push-workflow",
+      "views": "3 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953497/how-to-decode-a-transaction-find-all-transaction-details-of-a-token-swap-on-et",
+      "views": "8 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70944429/why-is-my-program-panicking-although-the-datatype-is-same",
+      "views": "66 views",
+      "votes": "-1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953495/switch-endpoint-responses-based-on-condition",
+      "views": "8 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70875827/asp-net-core-return-values-from-the-controller-and-put-the-values-into-the-in",
+      "views": "29 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70951184/how-to-merge-a-specific-file-from-one-branch-to-master",
+      "views": "23 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/44742681/how-to-execute-cucumber-hooks-in-java-placed-in-different-class-other-than-step",
+      "views": "2k views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949840/im-trying-to-build-an-ios-app-that-pulls-certain-notes-from-the-notes-app-based",
+      "views": "18 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953491/in-ef-core-connection-string-to-one-of-several-local-databases-on-sql-server-de",
+      "views": "5 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70930453/put-legend-outside-the-figure-so-it-will-not-affect-the-basic-figure-size",
+      "views": "30 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70943315/selenium-webdriver-chrome-hangs-in-python-works-via-command-line",
+      "views": "14 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953489/error-in-forecast-and-accuracy-function-in-r",
+      "views": "12 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950370/facial-recognition-project-exit-code-132-error-does-anybody-know-what-might-be",
+      "views": "25 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953215/show-snackbar-reactively-using-getx-in-flutter",
+      "views": "9 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953487/connection-refused-error-when-trying-to-communicate-between-two-virtualbox-machi",
+      "views": "6 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953458/nptdms-tdmsfile-object-not-subscriptable",
+      "views": "11 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/67766247/null-propagating-function-type-annotation",
+      "views": "58 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953483/how-do-i-copy-my-transpose-data-with-the-cells-fill-color-together",
+      "views": "8 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952238/how-to-detect-if-there-is-little-to-no-change-in-time-series-data",
+      "views": "24 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953480/facing-deadlinetimeoutexception-while-using-apache-httpclient-with-spring-webcli",
+      "views": "6 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952751/can-i-add-custom-attributes-to-components-in-preferences-xml-without-making-cust",
+      "views": "13 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70947821/publish-final-jar-file-in-artifactory-using-gradle",
+      "views": "16 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953261/twilio-live-streams-only-one-members-video-stream",
+      "views": "13 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70494957/converting-private-route-with-props-from-react-router-v5-to-react-router-v6",
+      "views": "73 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952952/loosing-connection-to-sql-server-from-express-js-api",
+      "views": "15 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953462/date-field-is-not-getting-saved-in-the-admin-database",
+      "views": "6 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/37813568/git-remote-repository-not-found",
+      "views": "502k views",
+      "votes": "241",
+      "answers": "49"
+    },
+    {
+      "link": "/questions/70952758/git-merge-feature-branch-to-master-branch-after-squashing-commits",
+      "views": "17 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70953474/how-to-create-toggle-react-native-camera-torch-on-off",
+      "views": "6 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952895/timestamp-of-yesterday-at-specific-hour-bigquery",
+      "views": "8 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70946235/r-shiny-encrypting-dataframe-on-server",
+      "views": "16 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951075/postgres-cannot-create-database-but-can-create-a-user",
+      "views": "26 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953160/insert-into-dependent-on-if-statment",
+      "views": "19 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70095682/showing-push-notifications-while-using-airplay-on-ios",
+      "views": "58 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/47204267/select-dropdown-in-react-with-html-in-dropdowns",
+      "views": "302 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70940656/how-to-get-string-from-array-while-using-axios",
+      "views": "23 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953467/how-to-display-different-font-family-to-the-same-font-in-output-of-tinymce",
+      "views": "6 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70797995/python-how-to-use-user-input-for-login-information-prompt",
+      "views": "48 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70721080/selenium-python-how-to-wait-for-div-to-appear-do-stuff-then-wait-again-and-so",
+      "views": "26 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953466/unique-url-i-came-across-and-cant-understand-how-it-works",
+      "views": "5 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952877/one-to-many-relationship-foreign-key-count",
+      "views": "15 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/4910077/select-all-child-elements-recursively-in-css",
+      "views": "640k views",
+      "votes": "470",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952203/angular-ngfor-display-only-unique-property-category-value-and-lowest-price-i",
+      "views": "27 views",
+      "votes": "-1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950989/why-does-callback-to-the-event-listener-work-as-intended-while-using-the-useeffe",
+      "views": "22 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70732831/creating-a-box-that-moves-accross-the-screen-in-phaser-3",
+      "views": "27 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953461/issues-in-accessing-onedrive-business-using-microsoft-graph-api",
+      "views": "5 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953460/sso-for-cross-domain-authentication",
+      "views": "13 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70953049/question-about-an-existing-code-on-certain-problem",
+      "views": "25 views",
+      "votes": "0",
+      "answers": "0"
+    }
+  ],
+  [
+    {
+      "link": "/questions/69309357/unable-to-load-antd-less-styles",
+      "views": "40 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70952095/silently-read-write-to-a-cmd-script-from-a-c-sharp-console-application",
+      "views": "12 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952093/flutter-position-the-r-and-time",
+      "views": "13 views",
+      "votes": "-1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952092/opencv-c-real-time-image-filtering-grayscale-blur-etc-defined-by-keys-but",
+      "views": "12 views",
+      "votes": "-1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/57546731/laravel-mix-browsersync-not-loading-at-localhost3000",
+      "views": "13k views",
+      "votes": "3",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951887/how-to-use-getclosest-in-a-list-in-python",
+      "views": "17 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70921393/error-restarting-service-failed-to-try-restart-nscd-service-unit-nscd-service",
+      "views": "57 views",
+      "votes": "-1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70588870/is-there-an-equivalent-to-quokkajs-for-emacs",
+      "views": "19 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/15306916/dynamically-create-collection-with-mongoose",
+      "views": "27k views",
+      "votes": "26",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70950558/what-is-wrong-with-this-function-that-is-supposed-to-find-the-multiplicative-per",
+      "views": "39 views",
+      "votes": "-2",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/66599378/chart-js-click-event-on-x-axis-labels",
+      "views": "40 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951720/robocopy-use-the-monitor-function-for-extra-actions",
+      "views": "13 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70951185/image-doesnt-display-in-page-while-uploading-to-mongodb",
+      "views": "19 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70952080/rabbitmq-client-update-caused-too-many-channels",
+      "views": "4 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951440/report-portal-io-container-reportportal-db-script-1-image-migrations5-6-0-exi",
+      "views": "6 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952015/react-router-dom-go-back-and-keep-state",
+      "views": "15 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70941581/repeated-error-while-running-face-recognition-vs-code",
+      "views": "18 views",
+      "votes": "-1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/68782781/react-router-v6-history-listen",
+      "views": "2k views",
+      "votes": "4",
+      "answers": "3"
+    },
+    {
+      "link": "/questions/70952076/how-to-route-from-one-api-to-other-fastapi",
+      "views": "10 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/35052792/react-native-socket-io-how-to-connect-to-local-node-server-from-device",
+      "views": "1k views",
+      "votes": "8",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70937877/signal-for-custom-user-registration-in-django",
+      "views": "29 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/4905393/scala-inputstream-to-arraybyte",
+      "views": "37k views",
+      "votes": "44",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952073/how-to-transfer-pandas-dataframe-from-djangobackend-to-tkinterfrontend",
+      "views": "10 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952072/how-to-disable-remote-ssh-and-local-download-in-vsc",
+      "views": "7 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/64809716/could-not-load-file-or-assembly-microsoft-extensions-configuration-abstractions",
+      "views": "21k views",
+      "votes": "27",
+      "answers": "8"
+    },
+    {
+      "link": "/questions/70951954/how-to-change-the-color-of-an-input-made-by-a-user-in-python",
+      "views": "21 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70952070/get-weight-from-gatt-characteristics-value-in-react-native-ble-plx",
+      "views": "8 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951958/how-to-send-push-notifications-in-both-android-and-iphone-flutter",
+      "views": "15 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/48341235/force-number-input-to-have-two-decimal-places-and-always-show-two-decimals-in-re",
+      "views": "8k views",
+      "votes": "1",
+      "answers": "3"
+    },
+    {
+      "link": "/questions/70949148/display-gameobject-added-to-a-script-in-unity3d",
+      "views": "16 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70925787/reactive-messaging-classcastexception-cannot-be-cast-to-class-io-smallrye-muti",
+      "views": "15 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/67570614/using-g-google-drive-for-desktop-for-node-js-projects-npm-install-errors",
+      "views": "356 views",
+      "votes": "2",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70951690/temporary-variable-changing-main-variable",
+      "views": "27 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/33301880/how-to-obtain-current-instance-id-from-boto3",
+      "views": "17k views",
+      "votes": "19",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952061/why-this-is-show-i-define-the-function-but-it-always-show-this-error",
+      "views": "20 views",
+      "votes": "-5",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/28509398/handle-exception-in-pyserial-during-disconnection",
+      "views": "19k views",
+      "votes": "9",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952059/asp-net-core-mvc-identity-custom-policy-problem-with-custom-authorization-p",
+      "views": "16 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/56413290/getting-curl-92-http-2-stream-1-was-not-closed-cleanly-internal-error-err",
+      "views": "29k views",
+      "votes": "10",
+      "answers": "4"
+    },
+    {
+      "link": "/questions/70944044/check-existence-of-multiple-ids-with-spring-data-jpa",
+      "views": "29 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949180/best-way-to-convert-a-observablemaybet-to-observablet",
+      "views": "22 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/63348547/setstate-or-markneedsbuild-called-during-build-with-navigation-in-inkwell",
+      "views": "71 views",
+      "votes": "0",
+      "answers": "3"
+    },
+    {
+      "link": "/questions/70952054/how-can-i-reduce-recomposition-in-android-studio",
+      "views": "11 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/36297815/how-to-setup-workers-for-parallel-processing-in-r-using-snowfall-and-multiple-wi",
+      "views": "2k views",
+      "votes": "100",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/18137682/using-nsis-to-package-application-installer-and-wav-file-does-not-play-because",
+      "views": "144 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951809/pyagrum-printing-and-plotting",
+      "views": "11 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70928420/how-to-validate-version-to-accept-4-4-but-not-4-4-0",
+      "views": "22 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70938683/caret-cross-validation-following-stepwise-selection-question-on-mechanism",
+      "views": "14 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70947132/php-form-insertcell-add-mysql-column",
+      "views": "18 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/58891872/how-to-get-a-username-to-show-on-serializer-django-rest-framework",
+      "views": "2k views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/68347350/angular-bootstrap-navbar-with-dropdowns-routing",
+      "views": "77 views",
+      "votes": "0",
+      "answers": "0"
+    }
+  ],
+  [
+    {
+      "link": "/questions/15237129/webdriverwait-for-an-element-attribute-to-change",
+      "views": "47k views",
+      "votes": "22",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952369/how-did-this-loophole-around-const-member-function-worked",
+      "views": "51 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952522/i-need-to-give-an-index-of-one-array-element-to-another-array-element",
+      "views": "6 views",
+      "votes": "-1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951453/open-a-bundle-file-with-mac",
+      "views": "22 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70940628/memory-leak-with-my-c-sharp-code-possible-solution",
+      "views": "49 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/63849052/azure-function-python-w-storage-upload-trigger-fails-with-large-file-uploads",
+      "views": "964 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952516/xsd-create-schema-with-unordered-elements-that-also-contains-list",
+      "views": "4 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/24147526/phpexcel-invalid-cell-coordinate-error",
+      "views": "31k views",
+      "votes": "5",
+      "answers": "3"
+    },
+    {
+      "link": "/questions/70911950/graphql-how-to-include-schema-from-other-types",
+      "views": "18 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70947906/get-value-of-previous-row-specific-column-from-a-pandas-df",
+      "views": "27 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70952514/woocommerce-booking-how-to-display-the-end-time-in-appointment",
+      "views": "9 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/26505980/github-permission-denied-ssh-add-agent-has-no-identities",
+      "views": "186k views",
+      "votes": "210",
+      "answers": "15"
+    },
+    {
+      "link": "/questions/27221137/datecreated-and-datemodified-in-asp-net-mvc-5",
+      "views": "4k views",
+      "votes": "4",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952509/fetch-url-to-render-in-next-js-component-jsx-and-avoid-nan",
+      "views": "5 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951057/the-name-of-the-object-to-be-created-is-identical-to-the-existing-name-in-ibm",
+      "views": "17 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70952508/how-to-combine-the-sg-page-of-next-js-with-firebase-hosting-and-csr-routing-for",
+      "views": "5 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70942728/understanding-color-scales-in-ggplot2",
+      "views": "74 views",
+      "votes": "2",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/13604104/clone-git-repository-into-iphone",
+      "views": "591 views",
+      "votes": "-1",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70952023/issue-with-ownership-on-mounted-volumes-in-a-kubernetes-pod",
+      "views": "11 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/66147710/how-to-get-statusbar-insets-for-android-app",
+      "views": "313 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70952317/how-do-i-record-my-output-from-a-python-file",
+      "views": "34 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952359/onactivityresult-always-returns-result-canceled-code-0-on-android-11",
+      "views": "20 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70952503/ci4-sum-and-join-confusion",
+      "views": "15 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/67448034/module-was-compiled-with-an-incompatible-version-of-kotlin-the-binary-version",
+      "views": "82k views",
+      "votes": "103",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952502/how-to-set-read-preference-for-gridfs-in-java",
+      "views": "7 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70945675/tailwind-css-create-animated-arrow",
+      "views": "23 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/65103654/testing-springboot-with-annotation-style-resilience4j",
+      "views": "2k views",
+      "votes": "1",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70952468/fork-join-did-i-get-this-right",
+      "views": "27 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952434/chrome-webrequest-onbeforesendheaders-addlistener-manifest-version3",
+      "views": "7 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951725/how-can-i-make-github-search-to-not-show-multiple-results-with-the-same-file-nam",
+      "views": "10 views",
+      "votes": "2",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70952498/direct2d-error-no-hardware-device-when-injecting-dll-into-another-process",
+      "views": "9 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70945056/unable-to-fetch-parameter-pswlastset-from-ldap",
+      "views": "14 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952495/flutter-sending-and-receiving-email",
+      "views": "14 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/49003285/azure-classification-using-vba",
+      "views": "15k views",
+      "votes": "5",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952494/exclude-a-some-category-from-the-category-list-widget-if-you-not-admin",
+      "views": "7 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952492/setinterval-and-settimeout-do-nothing-on-heroku",
+      "views": "6 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952491/how-to-add-google-analytics-tracking-id-in-svelte",
+      "views": "4 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70941058/problems-adding-a-breakpoint-with-commands-from-command-line-with-ex-command",
+      "views": "16 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70952490/perform-operation-after-each-delay-is-complete-in-rxjava",
+      "views": "14 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70820208/limiting-words-in-array",
+      "views": "11 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70945731/typescript-jest-expect-executes-before-timed-async-functions-finish-awaits",
+      "views": "14 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952487/error-deploying-application-to-aws-elastic-beanstalk-with-docker-compose-and-git",
+      "views": "7 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70943616/how-to-get-the-next-business-day-if-the-current-date-is-holiday-in-oracle",
+      "views": "35 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952484/problem-on-datetime-while-plotting-timeseries-with-different-files",
+      "views": "10 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70934120/pyspark-calculate-percentage-that-every-column-is-missing",
+      "views": "26 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70952482/or-operator-in-mat-select-disabled",
+      "views": "7 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/9075303/get-date-and-time-from-apple-server",
+      "views": "19k views",
+      "votes": "23",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70952481/android-navigation-component-popup-to-home-screen-when-open-the-app-by-deeplink",
+      "views": "24 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70951885/await-for-a-function-to-finish-not-working",
+      "views": "46 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70951804/difference-between-list-and-get-queryset-in-modelviewset-django",
+      "views": "12 views",
+      "votes": "0",
+      "answers": "1"
+    }
+  ],
+  [
+    {
+      "link": "/questions/70949918/when-i-load-data-within-a-function-how-can-i-get-it-into-the-calling-environment",
+      "views": "19 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949742/why-do-python-dunder-methods-override-numpy-universal-function-overrides-in-cust",
+      "views": "25 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70941461/populate-veutify-data-table-with-array-containing-array",
+      "views": "31 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/69860895/efficient-full-text-search-in-postgresql-sorting-on-another-column",
+      "views": "171 views",
+      "votes": "3",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70935825/how-to-play-a-song-from-a-specified-playlist-spotify-api",
+      "views": "54 views",
+      "votes": "1",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70947389/how-to-query-how-many-different-ids-use-the-same-column-value",
+      "views": "27 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949924/files-wont-compile-based-on-prototype-for-function-i-was-given-involving-a-file",
+      "views": "12 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/64303017/brew-error-no-such-file-or-directory-usr-local-cellar-pango-1-46-1-on-runni",
+      "views": "2k views",
+      "votes": "1",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70944102/ocaml-bits-list-to-tree",
+      "views": "57 views",
+      "votes": "0",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70947564/discord-js-table-with-embed-maybe",
+      "views": "13 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70819707/is-there-a-way-to-do-a-syntactic-symantic-diff-of-c-code",
+      "views": "39 views",
+      "votes": "3",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949920/unable-to-push-docker-image-to-private-repository-connect-no-route-to-host",
+      "views": "16 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/12614072/how-do-i-configure-iis-for-url-rewriting-an-angularjs-application-in-html5-mode",
+      "views": "140k views",
+      "votes": "146",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/8186133/faster-ways-to-calculate-frequencies-and-cast-from-long-to-wide",
+      "views": "4k views",
+      "votes": "15",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949737/how-to-write-a-function-that-evaluates-a-parameter-function-on-the-values-of-a-g",
+      "views": "24 views",
+      "votes": "-2",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/49064505/how-to-access-node-red-remotely",
+      "views": "14k views",
+      "votes": "2",
+      "answers": "6"
+    },
+    {
+      "link": "/questions/70945846/how-do-you-bind-a-socket-in-x64",
+      "views": "16 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949118/net5-sdk-is-installed-but-why-cant-choose-to-create-project",
+      "views": "13 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70935569/why-does-this-only-work-on-designed-combobox-and-not-on-hardcoded-swing",
+      "views": "58 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/34999124/calendar-api-v3-handling-deleted-events-for-one-way-sync",
+      "views": "1k views",
+      "votes": "2",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70939253/error-while-connecting-sql-server-with-visual-studio-2022-in-mac-os-not-in-windo",
+      "views": "12 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/66687712/modulenotfounderror-no-module-named-talib",
+      "views": "8k views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949863/i-am-receiving-typeerror-cannot-destructure-property-invitedusers-of-object",
+      "views": "11 views",
+      "votes": "-1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/50662071/grid-data-structure-and-placement-algorithm-for-my-battleships-implementation",
+      "views": "672 views",
+      "votes": "12",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70817933/highlighting-problem-in-jupyter-notebook-vscode",
+      "views": "32 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70946374/how-to-validate-a-list-of-dictionaries-using-jsonschema-with-python",
+      "views": "29 views",
+      "votes": "1",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949042/regex-in-stream-filter-bad-return-type-in-lambda-expression-matcher-cannot-be-c",
+      "views": "11 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949901/everytime-you-guess-a-letter-you-get-a-life-removed-even-if-its-a-right-guess",
+      "views": "19 views",
+      "votes": "-3",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949900/how-to-place-a-divider-with-sub-header-using-expandablelistview",
+      "views": "9 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70942984/add-the-scope-data-to-another-scope-without-changing-the-values-from-which-it",
+      "views": "29 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70737159/is-it-unhealthy-for-ssd-if-i-write-vital-signal-to-check-a-python-code-is-runn",
+      "views": "38 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949323/sequelizeforeignkeyconstrainterror-due-to-sequelize-sync-force-true",
+      "views": "8 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/62668396/saving-file-php-running-phpcbf-formatter-configure",
+      "views": "467 views",
+      "votes": "1",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70949897/how-to-make-windows-terminal-tab-with-file-name-as-title",
+      "views": "5 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949896/how-to-reduce-vue-js-component-library-build-size",
+      "views": "17 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/32045238/android-whatsapp-do-voice-call",
+      "views": "846 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949862/machine-learning-how-can-i-use-it-to-recognize-objects",
+      "views": "20 views",
+      "votes": "-2",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949892/run-refreshall-on-an-excel-file-stored-in-blob-storage",
+      "views": "13 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/57286132/ssh-hangs-when-using-sshpass-and-private-keys",
+      "views": "2k views",
+      "votes": "4",
+      "answers": "2"
+    },
+    {
+      "link": "/questions/70949795/cannot-get-jsp-to-see-servlet-via-jsp-include-page",
+      "views": "12 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949885/would-it-be-possible-to-reference-the-navigation-properties-as-fk-in-a-many-to-m",
+      "views": "17 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70946144/problem-with-operator-in-in-aggregation-pipeline",
+      "views": "20 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949808/selenium-not-submiting-return-button",
+      "views": "16 views",
+      "votes": "0",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70905989/zendesk-api-clients-vs-http-requests-responses",
+      "views": "39 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/70949823/python-pandas-concatenate-all-tsv-files-from-directory-to-new-file",
+      "views": "16 views",
+      "votes": "0",
+      "answers": "1"
+    },
+    {
+      "link": "/questions/55946001/typescripts-type-string-string-is-not-assignable-to-type-string-what-is",
+      "views": "12k views",
+      "votes": "15",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949384/using-decorators-to-eliminate-need-for-if-statements-in-methods",
+      "views": "43 views",
+      "votes": "1",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949878/hello-i-am-a-complete-beginner-to-java-or-html-in-general",
+      "views": "33 views",
+      "votes": "-7",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70949877/whats-the-purpose-of-commulative-product-sum-in-maachine-deep-learning",
+      "views": "13 views",
+      "votes": "-2",
+      "answers": "0"
+    },
+    {
+      "link": "/questions/70825160/debugging-a-sorting-algorithm-in-ruby",
+      "views": "72 views",
+      "votes": "0",
+      "answers": "3"
+    }
+  ]
+]
