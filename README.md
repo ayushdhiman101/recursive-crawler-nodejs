@@ -1,7 +1,7 @@
 # Recursive Crawler Using NodeJs
 ### Given Problem Statement:
 **Objective:** 
-Recursively crawl https://stackoverflow.com/questions using Node.js based crawler,
+Recursively crawl https://stackoverflow.com/questions using Node. js-based crawler,
 harvest all questions on Stack Overflow and store them in a database of your choice.
 What do you need to store?
 1. Every unique URL (Stack Overflow question) you encountered.
@@ -11,8 +11,8 @@ What do you need to store?
 
 
 ### Repository file description
-1) `crawler-SinglePage.js` - Crawler for a single page, fecthes te data and stores them in json and csv format. Exports this data to mongo db backend
-3) `crawler-MultiPage.js` - Crawler for a n number of pages page (50 in our case), fecthes te data and stores them in json and csv format. Exports this data to mongo db backend
+1) `crawler-SinglePage.js` - Crawler for a single page fetches the data and stores them in JSON and CSV format. Exports this data to Mongo DB backend
+3) `crawler-MultiPage.js` - Crawler for several pages page (50 in our case), fetches the data and stores them in JSON and CSV format. Exports this data to mongo dB backend
 4) `questionDB.csv`- CSV file output of the data
 5) `questionBankList.json`- JSON file output of the data
 
@@ -23,14 +23,14 @@ What do you need to store?
 4) `MongoClient`- Connects to MongoDB database
 
 ### URL Updation
-Recusively keep updating the URL page by incrementing i value by 1. We scrap 1 to n pages 
+Recursively keep updating the URL page by incrementing the I value by 1. We scrap 1 to n pages 
 `https://stackoverflow.com/questions?tab=active&page=1` to  `https://stackoverflow.com/questions?tab=active&page=n` (in our case 50)
 
 ### DOM value selection
-From the HTML code of the page we select particualr DOM values that we require in that are - URL link, Number of answers, Number of views, Number of votes.
+From the HTML code of the page, we select particular DOM values that we require in that are - URL link, Number of answers, Number of views, Number of votes.
 
 ### Export Data
-The above values are exported to mongoDb database and exported as JSON and CSV files
+The above values are exported to MongoDB database and exported as JSON and CSV files
 
 
 
