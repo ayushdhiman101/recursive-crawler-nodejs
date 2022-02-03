@@ -12,15 +12,15 @@ What do you need to store?
 
 ### Repository file description
 1) `crawler-SinglePage.js` - Crawler for a single page, fecthes te data and stores them in json and csv format. Exports this data to mongo db backend
-2) `crawler-MultiPage.js` - Crawler for a n number of pages page (50 in our case), fecthes te data and stores them in json and csv format. Exports this data to mongo db backend
-3) `questionDB.csv`- CSV file output of the data
-4) `questionBankList.json`- JSON file output of the data
+3) `crawler-MultiPage.js` - Crawler for a n number of pages page (50 in our case), fecthes te data and stores them in json and csv format. Exports this data to mongo db backend
+4) `questionDB.csv`- CSV file output of the data
+5) `questionBankList.json`- JSON file output of the data
 
 ### Node Dependencies used:
-`cheerio` - Cheerio js is a Javascript technology used for web-scraping in server-side implementations
-`axios` - Axios is a Javascript library used to make HTTP requests from node. js
-`csvjson`- Creates CSV from JSON file
-`MongoClient`- Connects to MongoDB database
+1) `cheerio` - Cheerio js is a Javascript technology used for web-scraping in server-side implementations
+2) `axios` - Axios is a Javascript library used to make HTTP requests from node. js
+3) `csvjson`- Creates CSV from JSON file
+4) `MongoClient`- Connects to MongoDB database
 
 ### URL Updation
 Recusively keep updating the URL page by incrementing i value by 1. We scrap 1 to n pages 
